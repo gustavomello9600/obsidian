@@ -1,0 +1,138 @@
+{
+  "main": {
+    "id": "1edf17059b337f0a",
+    "type": "split",
+    "children": [
+      {
+        "id": "e9b26d2e5a631536",
+        "type": "leaf",
+        "state": {
+          "type": "localgraph",
+          "state": {
+            "file": "Universo.md",
+            "options": {
+              "collapse-filter": false,
+              "search": "",
+              "localJumps": 3,
+              "localBacklinks": true,
+              "localForelinks": true,
+              "localInterlinks": false,
+              "showTags": false,
+              "showAttachments": false,
+              "hideUnresolved": false,
+              "collapse-color-groups": true,
+              "colorGroups": [],
+              "collapse-display": false,
+              "showArrow": false,
+              "textFadeMultiplier": 0,
+              "nodeSizeMultiplier": 1,
+              "lineSizeMultiplier": 5,
+              "collapse-forces": true,
+              "centerStrength": 0.518713248970312,
+              "repelStrength": 10,
+              "linkStrength": 1,
+              "linkDistance": 250,
+              "scale": 0.7827291916194913,
+              "close": true
+            }
+          }
+        }
+      },
+      {
+        "id": "aad7583f6b3ee1df",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Universo.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "75499dab12a6cdaf",
+    "type": "split",
+    "children": [
+      {
+        "id": "3dca3c0a4adc51a0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "32f4001a8cdfc3c8",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "636fefceec99d9ab",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#lore",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "2fbe60673c9c6d30",
+    "type": "split",
+    "children": [
+      {
+        "id": "99070d70e25766cc",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f5adecb5e1d47bc7",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Universo.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "aad7583f6b3ee1df",
+  "lastOpenFiles": [
+    "Universo.md",
+    "Academia das Forças Expedicionárias.md",
+    "Frota Zero.md",
+    "Aliança Láctea.md",
+    "Tíriu Terceiro.md",
+    "Teleportador Quântico.md",
+    "Audácia.md",
+    "Manipulador do Tensor Energia-Momento.md",
+    "Motor de Antimatéria.md",
+    "Jussy Castro.md"
+  ]
+}

@@ -1,0 +1,1 @@
+Dispositivo capaz de manipular o espaço a partir do fino controle do fluxo de grandes quantidades de energia em seu interior

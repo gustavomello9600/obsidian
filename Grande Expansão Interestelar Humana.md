@@ -1,0 +1,1 @@
+Período que compreende desde quando os humanos colonizaram os primeiros planetas nas estrelas mais próximas ao Sol até a construção da base da [[Aliança Láctea]]
